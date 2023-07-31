@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "389a7bc0-b31b-4db9-821b-7c35ee2255ce",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://127.0.0.1:8787/api/beverages",
+        "url": "http://127.0.0.1:8787/api/beverages",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-30T14:51:11.076Z",
+        "modified": "2023-07-30T14:51:11.076Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    },
+    {
+        "_id": "46eee1fc-88ed-4f7b-a2fc-4ca30e08e4bb",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://127.0.0.1:8787/api/beverages",
+        "url": "http://127.0.0.1:8787/api/beverages",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2023-07-30T14:51:15.864Z",
+        "modified": "2023-07-30T14:51:15.864Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    },
+    {
+        "_id": "4f1a427b-b3ef-4d83-8c22-1bdc928ec2e8",
+        "colId": "history",
+        "containerId": "",
+        "name": "https://index.88886688.xyz/api/beverages",
+        "url": "https://index.88886688.xyz/api/beverages",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2023-07-30T15:22:12.786Z",
+        "modified": "2023-07-30T15:22:12.786Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    }
+]

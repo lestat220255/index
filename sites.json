@@ -1,0 +1,444 @@
+[
+	{
+		"name": "社区",
+		"icon": "play",
+		"list": [
+			{
+				"url": "https://github.com/trending",
+				"name": "Trending",
+				"desc": "Github Trending"
+			},
+			{
+				"url": "https://sspai.com/",
+				"name": "少数派",
+				"desc": "高效工作，品质生活"
+			},
+			{
+				"url": "https://www.reddit.com/",
+				"name": "Reddit",
+				"desc": "Reddit",
+				"unavailableForCN": true
+			},
+			{
+				"url": "https://dev.to/",
+				"name": "DEV",
+				"desc": "DEV Community 👩‍💻👨‍💻"
+			},
+			{
+				"url": "https://v2ex.com/",
+				"name": "V2EX",
+				"desc": "社区",
+				"unavailableForCN": true
+			},
+			{
+				"url": "https://www.hackernoon.com/",
+				"name": "hackernoon",
+				"desc": "hackernoon"
+			},
+			{
+				"url": "https://news.ycombinator.com/",
+				"name": "Hacker News",
+				"desc": "Hacker News"
+			},
+			{
+				"url": "https://www.github.com/",
+				"name": "github",
+				"desc": "github"
+			},
+			{
+				"url": "https://pimylifeup.com/",
+				"name": "玩树莓派",
+				"desc": "玩法，攻略"
+			}
+		]
+	},
+	{
+		"name": "播客",
+		"icon": "play",
+		"list": [
+			{
+				"url": "https://podcasts.google.com/",
+				"name": "Google Podacsts",
+				"desc": "Google Podacsts",
+				"unavailableForCN": true
+			}
+		]
+	},
+	{
+		"name": "游戏社区",
+		"icon": "game",
+		"list": [
+			{
+				"url": "https://helltides.com/",
+				"name": "Helltide Schedule",
+				"desc": "地狱浪潮,世界Boss,军团集结时间表"
+			},
+			{
+				"url": "https://d4builds.gg/",
+				"name": "d4builds.gg",
+				"desc": "暗黑四加点参考"
+			},
+			{
+				"url": "https://www.icy-veins.com/",
+				"name": "icy-veins",
+				"desc": "新闻，攻略"
+			},
+			{
+				"url": "https://gnn.gamer.com.tw/",
+				"name": "巴哈姆特",
+				"desc": "巴哈姆特"
+			},
+			{
+				"url": "https://www.d2core.com/",
+				"name": "暗黑核",
+				"desc": "暗黑4技能模拟器、暗黑4巅峰模拟器，职业模拟、加点模拟、雕文模拟与分享"
+			}
+		]
+	},
+	{
+		"name": "环境",
+		"icon": "cloud",
+		"list": [
+			{
+				"url": "https://waqi.info/",
+				"name": "AQI",
+				"desc": "空气污染实时检索"
+			}
+		]
+	},
+	{
+		"name": "Future",
+		"icon": "connectdevelop",
+		"list": [
+			{
+				"url": "https://github.com/The-Run-Philosophy-Organization/run",
+				"name": "润学",
+				"desc": "迁徙自由，是基本人权； 当然了，讨论真理的言论自由也是基本人权之一。",
+				"unavailableForCN": true
+			},
+			{
+				"url": "https://www.icrc.org/en/nuclear-ban-treaty-no-to-nukes",
+				"name": "We won't survive in a nuclear attack.",
+				"desc": "Let's decide the future of nuclear weapons before they decide ours."
+			}
+		]
+	},
+	{
+		"name": "学习",
+		"icon": "connectdevelop",
+		"list": [
+			{
+				"url": "https://nextjs.org/docs",
+				"name": "nextjs",
+				"desc": "全栈一把梭框架"
+			},
+			{
+				"url": "https://github.com/ossu/computer-science",
+				"name": "Computer-Science",
+				"desc": "Computer-Science"
+			},
+			{
+				"url": "https://www.tailwindcss.cn/docs",
+				"name": "tailwindcss",
+				"desc": "tailwindcss"
+			},
+			{
+				"url": "https://v3.cn.vuejs.org/",
+				"name": "vue",
+				"desc": "vue"
+			},
+			{
+				"url": "https://laravel.com/",
+				"name": "laravel",
+				"desc": "laravel"
+			},
+			{
+				"url": "https://www.docker.com",
+				"name": "docker",
+				"desc": "docker"
+			},
+			{
+				"url": "https://web.qianguyihao.com",
+				"name": "前端学习",
+				"desc": "前端学习"
+			},
+			{
+				"url": "https://refactoringguru.cn/",
+				"name": "refactoringguru",
+				"desc": "设计模式"
+			}
+		]
+	},
+	{
+		"name": "工具",
+		"icon": "plug",
+		"list": [
+			{
+				"url": "https://github.com/dani-garcia/vaultwarden",
+				"name": "vaultwarden",
+				"desc": "自建密码管理,bitwarden替代品"
+			},
+			{
+				"url": "https://hardwaretester.com/",
+				"name": "硬件测试",
+				"desc": "显卡，手柄，话筒，MIDI"
+			},
+			{
+				"url": "https://ipinfo.io/",
+				"name": "ipinfo",
+				"desc": "IP信息"
+			},
+			{
+				"url": "https://lookup.icann.org/",
+				"name": "whois",
+				"desc": "whois"
+			},
+			{
+				"url": "https://scamalytics.com/",
+				"name": "scamalytics",
+				"desc": "IP纯净度检测"
+			},
+			{
+				"url": "https://crontab.guru/",
+				"name": "定时任务",
+				"desc": "crontab"
+			},
+			{
+				"url": "https://www.shell.how/",
+				"name": "解释shell命令(推荐)",
+				"desc": "解释shell命令(推荐)"
+			},
+			{
+				"url": "https://command-not-found.com/",
+				"name": "解释shell命令",
+				"desc": "解释shell命令"
+			},
+			{
+				"url": "https://www.freeformatter.com/",
+				"name": "formatter",
+				"desc": "formatter"
+			},
+			{
+				"url": "https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN",
+				"name": "nginx config",
+				"desc": "nginx配置生成"
+			},
+			{
+				"url": "https://ingramer.com/downloader/instagram/",
+				"name": "instagram下载",
+				"desc": "instagram下载",
+				"unavailableForCN": true
+			},
+			{
+				"url": "https://twittervideodownloader.com/",
+				"name": "twitter下载",
+				"desc": "twitter下载",
+				"unavailableForCN": true
+			},
+			{
+				"url": "https://9convert.com/zh-cn2",
+				"name": "youtube下载",
+				"desc": "youtube下载",
+				"unavailableForCN": true
+			},
+			{
+				"url": "https://chmodcommand.com/",
+				"name": "chmod",
+				"desc": "chmod"
+			},
+			{
+				"url": "https://regex101.com/",
+				"name": "regex",
+				"desc": "regex"
+			},
+			{
+				"url": "https://tmuxcheatsheet.com/",
+				"name": "tmux快捷键",
+				"desc": "tmux快捷键"
+			},
+			{
+				"url": "https://www.cs.usfca.edu/~galles/visualization/",
+				"name": "算法可视化",
+				"desc": "算法可视化(旧金山大学)"
+			},
+			{
+				"url": "https://toolbox.googleapps.com/apps/main/",
+				"name": "Google工具箱",
+				"desc": "Google工具箱",
+				"unavailableForCN": true
+			},
+			{
+				"url": "https://time.is/",
+				"name": "Time",
+				"desc": "时间"
+			},
+			{
+				"url": "https://currency.world/",
+				"name": "currency",
+				"desc": "货币转换"
+			},
+			{
+				"url": "https://www.similarweb.com/",
+				"name": "相似网站查询",
+				"desc": "相似网站查询"
+			},
+			{
+				"url": "https://awesomeopensource.com/",
+				"name": "开源项目搜索",
+				"desc": "开源项目搜索"
+			},
+			{
+				"url": "https://pkg.go.dev/",
+				"name": "pkg.go.dev",
+				"desc": "pkg.go.dev"
+			},
+			{
+				"url": "https://cn.dll-files.com/",
+				"name": "dll下载",
+				"desc": "dll下载"
+			},
+			{
+				"url": "https://ryzencontroller.com/",
+				"name": "AMD锐龙功耗调教",
+				"desc": "AMD锐龙功耗调教"
+			},
+			{
+				"url": "https://iptablesgenerator.totalbits.com/",
+				"name": "iptables生成",
+				"desc": "iptables生成"
+			},
+			{
+				"url": "https://randomuser.me/",
+				"name": "随机用户数据/API",
+				"desc": "随机用户数据/API"
+			},
+			{
+				"url": "https://cyberchef.88992323.xyz/",
+				"name": "网络工具",
+				"desc": "网络工具"
+			},
+			{
+				"url": "https://winget.run/",
+				"name": "Windows装机软件",
+				"desc": "Windows装机软件"
+			},
+			{
+				"url": "https://stablediffusionweb.com/",
+				"name": "在线画画",
+				"desc": "在线画画"
+			}
+		]
+	},
+	{
+		"name": "Playground",
+		"icon": "game",
+		"list": [
+			{
+				"url": "https://tour.golang.org/welcome/4",
+				"name": "A Tour of Go",
+				"desc": "A Tour of Go"
+			},
+			{
+				"url": "https://play.tailwindcss.com/",
+				"name": "tailwindcss",
+				"desc": "tailwindcss"
+			},
+			{
+				"url": "https://playcode.io/",
+				"name": "front-end playground",
+				"desc": "javascript, html, css playground"
+			},
+			{
+				"url": "https://www.typescriptlang.org/play",
+				"name": "typescript",
+				"desc": "typescript"
+			}
+		]
+	},
+	{
+		"name": "流媒体",
+		"icon": "youtube",
+		"list": [
+			{
+				"url": "https://www.youtube.com",
+				"name": "油管",
+				"desc": "油管",
+				"unavailableForCN": true
+			},
+			{
+				"url": "https://www.netflix.com/",
+				"name": "网飞",
+				"desc": "奈飞",
+				"unavailableForCN": true
+			}
+		]
+	},
+	{
+		"name": "百科",
+		"icon": "book",
+		"list": [
+			{
+				"url": "https://www.wikipedia.org/",
+				"name": "维基百科",
+				"desc": "维基百科",
+				"unavailableForCN": true
+			}
+		]
+	},
+	{
+		"name": "Private Porn Trackers",
+		"icon": "film",
+		"list": [
+			{
+				"url": "https://ssl.bootytape.com/",
+				"name": "bootytape",
+				"desc": "bootytape",
+				"unavailableForCN": true
+			},
+			{
+				"url": "http://rousi.zip/",
+				"name": "Rousi",
+				"desc": "站长说这是Rousi的PT站.",
+				"unavailableForCN": true
+			}
+		]
+	},
+	{
+		"name": "PC DIY",
+		"icon": "plug",
+		"list": [
+			{
+				"url": "https://www.whatpsu.com/",
+				"name": "whatpsu",
+				"desc": "根据CPU和GPU型号计算电源额定功率"
+			}
+		]
+	},
+	{
+		"name": "PT站",
+		"icon": "film",
+		"list": [
+			{
+				"url": "https://pt.btschool.club/",
+				"name": "PTSCHOOL",
+				"desc": "PTSCHOOL"
+			},
+			{
+				"url": "https://pt.soulvoice.club/",
+				"name": "聆音Club",
+				"desc": "聆音Club"
+			}
+		]
+	},
+	{
+		"name": "HIFI",
+		"icon": "play",
+		"list": [
+			{
+				"url": "https://www.hires6.com/",
+				"name": "hifi6(VIP only)",
+				"desc": "仅专注发烧音乐"
+			}
+		]
+	}
+]

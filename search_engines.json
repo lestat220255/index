@@ -1,0 +1,16 @@
+[
+	{
+		"name": "谷 歌",
+		"template": "https://www.google.com/search?q=$s",
+		"unavailableForCN": false
+	},
+	{
+		"name": "必 应",
+		"template": "https://www.bing.com/search?q=$s"
+	},
+	{
+		"name": "鸭 子",
+		"template": "https://duckduckgo.com/?q=$s",
+		"unavailableForCN": false
+	}
+]

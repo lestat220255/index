@@ -1,0 +1,5 @@
+compatibility_date = "2023-07-30"
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "demo"
+database_id = "93dc47ca-ec72-4ae9-914c-e25d61eb6af7"
