@@ -1,5 +1,16 @@
 [
 	{
+		"name": "Pinned",
+		"icon": "pin",
+		"list": [
+			{
+				"url": "https://pll.harvard.edu/subject/computer-science",
+				"name": "CS50",
+				"desc": "哈弗计算机科学公开课"
+			}
+		]
+	},
+	{
 		"name": "社区",
 		"icon": "play",
 		"list": [
