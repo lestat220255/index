@@ -4,6 +4,11 @@
 		"icon": "pin",
 		"list": [
 			{
+				"url": "https://huggingface.co/",
+				"name": "AI开源资源",
+				"desc": "通过开源和开放科学推进和民主化人工智能"
+			},
+			{
 				"url": "https://pll.harvard.edu/subject/computer-science",
 				"name": "CS50",
 				"desc": "哈弗计算机科学公开课"
