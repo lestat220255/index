@@ -4,6 +4,11 @@
 		"icon": "pin",
 		"list": [
 			{
+				"url": "https://roadmap.sh",
+				"name": "技术路线图",
+				"description": "guide developers in picking up a path and guide their learnings"
+			},
+			{
 				"url": "https://huggingface.co/",
 				"name": "AI开源资源",
 				"desc": "通过开源和开放科学推进和民主化人工智能"
