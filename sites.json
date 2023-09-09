@@ -6,7 +6,7 @@
 			{
 				"url": "https://roadmap.sh",
 				"name": "技术路线图",
-				"description": "guide developers in picking up a path and guide their learnings"
+				"desc": "guide developers in picking up a path and guide their learnings"
 			},
 			{
 				"url": "https://huggingface.co/",
