@@ -190,6 +190,11 @@
 		"icon": "plug",
 		"list": [
 			{
+				"url": "https://ping.sx/",
+				"name": "Ping.Sx",
+				"desc": "服务器网络测试"
+			},
+			{
 				"url": "https://github.com/dani-garcia/vaultwarden",
 				"name": "vaultwarden",
 				"desc": "自建密码管理,bitwarden替代品"
@@ -416,6 +421,12 @@
 				"name": "Rousi",
 				"desc": "站长说这是Rousi的PT站.",
 				"unavailableForCN": true
+			},
+			{
+				"url": "http://pussytorrents.org/",
+				"name": "PussyTorrents",
+				"desc": "PussyTorrents",
+				"unavailableForCN": true
 			}
 		]
 	},
@@ -443,6 +454,16 @@
 				"url": "https://pt.soulvoice.club/",
 				"name": "聆音Club",
 				"desc": "聆音Club"
+			},
+			{
+				"url": "https://hd-space.org/",
+				"name": "HD-Space",
+				"desc": "HD-Space"
+			},
+			{
+				"url": "https://www.torrentleech.org/",
+				"name": "torrentleech",
+				"desc": "torrentleech"
 			}
 		]
 	},

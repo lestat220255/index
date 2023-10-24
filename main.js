@@ -79,7 +79,7 @@ function renderIndex() {
 
 function renderTips(){
 	if(isCN){
-		return el('div', ['class="text-center text-pink-500 font-bold text-3xl"'], `由于当前网络受限，仅展示基础页面`);
+		//return el('div', ['class="text-center text-pink-500 font-bold text-3xl"'], `由于当前网络受限，仅展示基础页面`);
 	}
 	return '';
 }
