@@ -190,6 +190,11 @@
 		"icon": "plug",
 		"list": [
 			{
+				"url": "https://github.com/sivel/speedtest-cli/",
+				"name": "speedtest-cli",
+				"desc": "网速测试CLI"
+			},
+			{
 				"url": "https://ping.sx/",
 				"name": "Ping.Sx",
 				"desc": "服务器网络测试"
