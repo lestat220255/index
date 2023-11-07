@@ -412,7 +412,34 @@
 		]
 	},
 	{
-		"name": "Private Porn Trackers",
+		"name": "Semi-private Trackers",
+		"icon": "film",
+		"list": [
+			{
+				"url": "https://rutracker.org/",
+				"name": "rutracker",
+				"desc": "rutracker"
+			}
+		]
+	},
+	{
+		"name": "Public Trackers",
+		"icon": "film",
+		"list": [
+			{
+				"url": "https://thepiratebay.org/",
+				"name": "thepiratebay",
+				"desc": "thepiratebay"
+			},
+			{
+				"url": "https://btdig.com/",
+				"name": "btdig",
+				"desc": "btdig"
+			}
+		]
+	},
+	{
+		"name": "Porn Private Trackers",
 		"icon": "film",
 		"list": [
 			{
