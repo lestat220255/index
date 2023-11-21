@@ -17,6 +17,11 @@
 				"url": "https://pll.harvard.edu/subject/computer-science",
 				"name": "CS50",
 				"desc": "哈弗计算机科学公开课"
+			},
+			{
+				"url": "https://www.omnicalculator.com/",
+				"name": "Calculators",
+				"desc": "3000+ Free Calculators!!!"
 			}
 		]
 	},
