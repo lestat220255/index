@@ -26,6 +26,32 @@
 		]
 	},
 	{
+		"name": "Fediverse|联邦宇宙|去中心化社区群",
+		"icon": "play",
+		"list": [
+			{
+				"url": "https://fediverse.party/",
+				"name": "Fediverse",
+				"desc": "主站"
+			},
+			{
+				"url": "https://fediverse.party/en/portal/servers/",
+				"name": "Themed servers",
+				"desc": "索引"
+			},
+			{
+				"url": "https://mastodon.social/",
+				"name": "Mastodon",
+				"desc": "Mastodon"
+			},
+			{
+				"url": "https://misskey.io/",
+				"name": "Misskey",
+				"desc": "Misskey"
+			}
+		]
+	},
+	{
 		"name": "社区",
 		"icon": "play",
 		"list": [
