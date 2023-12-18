@@ -226,6 +226,11 @@
 		"icon": "plug",
 		"list": [
 			{
+				"url": "https://endoflife.date/",
+				"name": "endoflife",
+				"desc": "EOL列表"
+			},
+			{
 				"url": "https://github.com/sivel/speedtest-cli/",
 				"name": "speedtest-cli",
 				"desc": "网速测试CLI"
