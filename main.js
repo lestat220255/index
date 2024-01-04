@@ -145,7 +145,6 @@ function renderHTML(index, seller) {
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<title>${config.title} - ${config.subtitle}</title>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
-		<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
 		<link href="https://cdn.jsdelivr.net/npm/semantic-ui-css@2.4.1/semantic.min.css" rel="stylesheet">
 		<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 		<script src="https://cdn.tailwindcss.com"></script>

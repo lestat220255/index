@@ -26,6 +26,17 @@
 		]
 	},
 	{
+		"name": "Tutorials",
+		"icon": "book",
+		"list": [
+			{
+				"url": "https://hackintosh.com/",
+				"name": "黑苹果",
+				"desc": "黑苹果教程"
+			}
+		]
+	},
+	{
 		"name": "Fediverse|联邦宇宙|去中心化社区群",
 		"icon": "play",
 		"list": [
