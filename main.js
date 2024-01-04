@@ -49,7 +49,6 @@ export default {
 		}
 
 		isCN = request.cf.country === 'CN';
-		isCN = false;
 		return new Response(renderHTML(renderIndex(), config.selling_ads ? renderSeller() : null), init);
 	},
 };
