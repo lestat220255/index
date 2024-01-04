@@ -33,6 +33,11 @@
 				"url": "https://hackintosh.com/",
 				"name": "黑苹果",
 				"desc": "黑苹果教程"
+			},
+			{
+				"url": "https://pimylifeup.com/",
+				"name": "玩树莓派",
+				"desc": "玩法，攻略"
 			}
 		]
 	},
@@ -102,11 +107,6 @@
 				"url": "https://www.github.com/",
 				"name": "github",
 				"desc": "github"
-			},
-			{
-				"url": "https://pimylifeup.com/",
-				"name": "玩树莓派",
-				"desc": "玩法，攻略"
 			},
 			{
 				"url": "https://bbs.oldmantvg.net/",
